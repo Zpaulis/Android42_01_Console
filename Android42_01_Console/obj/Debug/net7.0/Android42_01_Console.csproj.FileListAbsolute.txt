@@ -1,0 +1,15 @@
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/bin/Debug/net7.0/Android42_01_Console
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/bin/Debug/net7.0/Android42_01_Console.deps.json
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/bin/Debug/net7.0/Android42_01_Console.runtimeconfig.json
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/bin/Debug/net7.0/Android42_01_Console.dll
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/bin/Debug/net7.0/Android42_01_Console.pdb
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.csproj.AssemblyReference.cache
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.AssemblyInfoInputs.cache
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.AssemblyInfo.cs
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.csproj.CoreCompileInputs.cache
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.dll
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/refint/Android42_01_Console.dll
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.pdb
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/Android42_01_Console.genruntimeconfig.cache
+/Users/paulismacbook/VIsualProjects/Android42_01_Console/Android42_01_Console/obj/Debug/net7.0/ref/Android42_01_Console.dll
